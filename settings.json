@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "lifesteal",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hi",
-        "what is this",
-        "IM GONNA cream!"
+        "hi, hope you have a great day",
+        "https://discord.gg/AKyfzDutGR",
+        "join our discord server!"
       ]
     },
     "chat-log": true,
